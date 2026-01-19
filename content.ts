@@ -88,7 +88,7 @@ export const content: AppContent = {
       // TO CHANGE THIS PHOTO:
       // 1. Upload your photo to the 'public' folder on GitHub (e.g., 'group-photo.jpg')
       // 2. Change the url below to: "/group-photo.jpg"
-      url: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=1600&auto=format&fit=crop",
+      url: "/community.jpg",
       alt: "Community group photo",
       caption: "Our lovely community at the Christmas Dinner 🎄"
     }
